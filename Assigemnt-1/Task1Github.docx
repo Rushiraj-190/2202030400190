@@ -1,0 +1,23 @@
+Task 1:
+
+1. Create a Git Repository:
+Open your terminal or command prompt and navigate to the directory where you want to create your repository.
+
+2. Create Folders:
+Inside your repository, create two folders named "assignment1" and "assignment2."
+
+3. Create a Word File:
+Create a Word file (e.g., "details.docx") with the necessary details. You can use a text editor or a word processing software for this.
+
+4. Add and Commit Changes:
+Add the folders and the Word file to the Git repository, and commit the changes.
+
+5. Create a Remote Repository:
+If you haven't already, create a remote repository on a platform like GitHub, GitLab, or Bitbucket.
+
+6. Link Local and Remote Repositories:
+Link your local repository to the remote repository.
+
+7. Push Changes:
+Push the changes to the remote repository.
+
